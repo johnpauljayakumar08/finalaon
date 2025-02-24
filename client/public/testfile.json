@@ -1,0 +1,47 @@
+[
+    {
+        "name": "login page",
+         "elements": [
+            {
+                "value": "",
+                "tagName": "h1",
+                "attributes": []
+            },
+            {
+                "value": "login",
+                "tagName": "h2", 
+                "attributes": []
+            },
+            {
+                "value": "",
+                "tagName": "input",
+                "attributes": [
+                    {
+                        "name": "type",
+                        "value": "text"
+                    }
+                    ]
+            }, 
+            {
+                "value": "", 
+                "tagName": "input", 
+                "attributes": [
+                    {
+                        "name": "type",
+                        "value": "checkbox"
+                    }
+                ]
+            }, 
+            {
+                "value": "", 
+                "tagName": "input", 
+                "attributes": [
+                    {
+                        "name": "type",
+                        "value": "email"
+                    }
+                ]
+            }
+        ]
+    }
+]

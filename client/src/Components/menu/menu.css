@@ -1,0 +1,20 @@
+.siz{
+    margin-left: 10%;
+    width: 40%;
+  }
+  .bgcolor{
+    background-color: #291571;
+   
+  }
+  .navmain{
+    position: sticky;
+    top: 0;
+    z-index: 9;
+  }
+  .nav-link{
+    cursor: pointer;
+  }
+  .algin{
+   vertical-align: middle;
+   text-align: center;
+  }

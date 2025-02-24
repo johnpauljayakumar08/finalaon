@@ -1,0 +1,20 @@
+.report-entry {
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    padding: 10px;
+    margin-bottom: 10px;
+  }
+  
+  h1 {
+    text-align: center;
+  }
+  
+  h2 {
+    display: flex;
+    align-items: center;
+  }
+  
+  h2::before {
+    content: attr(data-icon);
+    margin-right: 10px;
+  }
